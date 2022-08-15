@@ -1,5 +1,5 @@
 body {
-  background-color: #d14d38;
+  background-color: #e0533d; /* temporary */
 }
 
 nav {
@@ -15,7 +15,7 @@ header, main, footer {
 }
 
 main {
-	background-color: #e0533d;
+	background-color: #fff; /*make this white for the most part */
 	border-top: 1px solid #fff;
 	border-bottom: 1px solid #fff;
 	padding-bottom: 40px;
@@ -26,7 +26,7 @@ footer {
 }
 
 a {
-	color: #35284c;
+	color: #0b0d81;
 }
 
 nav>a {
@@ -59,7 +59,7 @@ h1, h2, h3, h4, h5, h6 {
 	margin-bottom: 0.5rem;
 	font-weight: 500;
 	line-height: 1.2;
-	color: #23234e
+	color: #0b0d81
 }
 
 h1 {
@@ -103,7 +103,7 @@ h2 {
 
 .footnote {
     text-align: center;
-    color: #b3b3b3;
+    color: #000;
     font-weight: 300;
 }
 
