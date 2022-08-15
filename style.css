@@ -115,3 +115,15 @@ h2 {
     text-align: start !important;
     text-align-last: start !important;
 }
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: center;
+  padding: 8px;
+}
