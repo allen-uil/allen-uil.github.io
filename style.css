@@ -133,3 +133,15 @@ td, th {
   text-align: center;
   padding: 8px;
 }
+
+.progress {
+  background-color: #ffff00;
+  font-size: 1rem;
+  display: table-row;
+}
+
+.complete {
+  background-color: #00ff00;
+  font-size: 1rem;
+  display: table-row;
+}
