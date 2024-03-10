@@ -132,16 +132,17 @@ td, th {
   border: 1px solid #dddddd;
   text-align: center;
   padding: 8px;
+  border: 1px solid black;
 }
 
 .progress {
-  background-color: #ffff00;
+  background-color: #f4f496;
   font-size: 1rem;
   display: table-row;
 }
 
 .complete {
-  background-color: #00ff00;
+  background-color: #a1e6a1;
   font-size: 1rem;
   display: table-row;
 }
